@@ -1,3 +1,4 @@
-# goit-js-hw-07
-
-https://smukuhapace.github.io/goit-js-hw-07/
+# Gallery JS Project
+Project with 2 galleries:
+1. Simple Gallery using basicLightbox
+2. Extensive Gallery using SimpleLightbox
